@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'mugas'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_612a779b2c74480080cfbed0bd023188 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_58d6c88197b34cb891a11136e023c179 }}
